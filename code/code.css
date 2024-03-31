@@ -1,0 +1,64 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  max-width: 1200px;
+  min-width: 767px;
+  margin: 0 auto 0 auto;
+}
+#camera {
+  max-width: 100%;
+}
+nav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+nav > a {
+  font-size: 34px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #000000;
+}
+#My {
+  margin-left: 208px;
+  border: 1px solid#000000;
+}
+#Ab {
+  margin-left: 208px;
+}
+#Wo {
+  margin-left: 30px;
+}
+p {
+  font-size: 34px;
+  font-weight: 700;
+  color: #000000;
+  text-align: center;
+}
+#about {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto 20px auto;
+  }
+  .namae {
+    padding-right: 10px;
+    margin: 0 auto;
+  }
+h6 {
+text-align: center;
+}
+.name {
+  font-size: 34px;
+  font-weight: 700;
+}
+#kao {
+  border-radius: 100%;
+  width: 141px;
+  height: 142px;
+  margin-left: 250px;
+  border: 2px solid #999;
+  padding: 2px;
+}
+#works {
+  display: flex;
+  justify-content: center;
+  }
